@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS305: Web Development"
+course_description: "A detailed survey of Web-based application development, with particular emphasis on developing web applications using JavaScript, HTML, XML, AJAX, and Java Server Pages (JSP)."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "CS305: Web Development"
 --------------------------------------------
 

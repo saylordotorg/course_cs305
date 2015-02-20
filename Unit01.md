@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS305: Web Development"
+course_description: "A detailed survey of Web-based application development, with particular emphasis on developing web applications using JavaScript, HTML, XML, AJAX, and Java Server Pages (JSP)."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: The Internet and Web Protocols** <span id="1"></span> 
 **This unit begins with an overview of the development of the Internet
 and the Web.  Students will then study Internet Protocols, focusing on

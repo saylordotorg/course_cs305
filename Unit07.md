@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS305: Web Development"
+course_description: "A detailed survey of Web-based application development, with particular emphasis on developing web applications using JavaScript, HTML, XML, AJAX, and Java Server Pages (JSP)."
+next: ../../../
+previous: ../Unit06
+---
 **Unit 7: Final Exam** <span id="7"></span> 
 -   **Final Exam: Saylor Foundation's CS305 Final Exam**
     Link: The Saylor Foundation's [CS305 Final

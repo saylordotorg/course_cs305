@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS305: Web Development"
+course_description: "A detailed survey of Web-based application development, with particular emphasis on developing web applications using JavaScript, HTML, XML, AJAX, and Java Server Pages (JSP)."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Client Server Architecture** <span id="2"></span> 
 **In this unit, you will learn about various types of Client-Server
 Architectures and discuss how requests and responses are sent between a

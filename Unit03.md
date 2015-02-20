@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS305: Web Development"
+course_description: "A detailed survey of Web-based application development, with particular emphasis on developing web applications using JavaScript, HTML, XML, AJAX, and Java Server Pages (JSP)."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Web Software** <span id="3"></span> 
 **In this unit, you will learn the three software components that are
 needed for the deployment and use of web applications: Web Browsers, Web

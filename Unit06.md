@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS305: Web Development"
+course_description: "A detailed survey of Web-based application development, with particular emphasis on developing web applications using JavaScript, HTML, XML, AJAX, and Java Server Pages (JSP)."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Web Security and Encryption** <span id="6"></span> 
 **Transferring data and personal information over the Internet should be
 done in a secure manner.  This unit will introduce you to three

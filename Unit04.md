@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS305: Web Development"
+course_description: "A detailed survey of Web-based application development, with particular emphasis on developing web applications using JavaScript, HTML, XML, AJAX, and Java Server Pages (JSP)."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Hyptertext Markup Language (HTML)** <span id="4"></span> 
 **This unit will introduce you to Hypertext Markup Language, one of the
 languages that a Web Browsers parse and interpret in order to display

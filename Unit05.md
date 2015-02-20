@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS305: Web Development"
+course_description: "A detailed survey of Web-based application development, with particular emphasis on developing web applications using JavaScript, HTML, XML, AJAX, and Java Server Pages (JSP)."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: JavaScript, Ajax, and Java Server Pages (JSP)** <span
 id="5"></span> 
 *This unit is the core of this course.  It will introduce you to the
